@@ -1,0 +1,16 @@
+{
+  "name": "aws-log-analyzer",
+  "version": "1.0.0",
+  "description": "AWS Log Analysis Tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "analyze": "node main.js"
+  },
+  "keywords": ["log", "analysis", "aws", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
